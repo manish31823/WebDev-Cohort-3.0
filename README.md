@@ -29,7 +29,7 @@ Learn by doing! Build projects that mimic real-world applications and showcase y
 
 1. **Clone the Repo**:  
    ```bash  
-   git clone https://github.com/https://github.com/manish31823/WebDev-Cohort-3.0 
+   https://github.com/manish31823/WebDev-Cohort-3.0
 
    ```  
 
